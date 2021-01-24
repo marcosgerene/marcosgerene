@@ -4,7 +4,7 @@ Meu nome é Marcos, tenho 28 anos, sou programador e empreendedor.
 
 Comecei a me interessar e estudar sobre desenvolvimento de softwares com 16 anos o que se tornou minha profissão aos 18.
 
-Trabalhei por 5 anos com a dupla Delphi-Firebird, e nos ultimos 5 desenvolvo aplicações em C#-PostgreSQL para desktop (WPF e WinForms), mobile (Xamarin.Forms) e algumas aplicações pontuais em Asp.Net MVC.
+Trabalhei por 5 anos com a Delphi, e nos ultimos 5 desenvolvo aplicações em C# para desktop (WPF e WinForms), mobile (Xamarin.Forms) e algumas aplicações pontuais em Asp.Net MVC.
 
 Tenho uma vasta experiência com aplicações fiscais, sou colaborador ativo do projeto **DFe.Net** e responsável pelos projetos **Gerene.DFe.EscPos**  e **CiotEFrete**.
 
