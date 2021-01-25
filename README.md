@@ -4,15 +4,15 @@ Meu nome é Marcos, tenho 28 anos, sou programador e empreendedor.
 
 Comecei a me interessar e estudar sobre desenvolvimento de softwares com 16 anos o que se tornou minha profissão aos 18.
 
-Trabalhei por 5 anos com a Delphi, e nos ultimos 5 desenvolvo aplicações em C# para desktop (WPF e WinForms), mobile (Xamarin.Forms) e algumas aplicações pontuais em Asp.Net MVC.
+Trabalhei por 5 anos com a Delphi, e nos últimos 5 desenvolvo aplicações em C# para desktop (WPF e WinForms), mobile (Xamarin.Forms) e algumas aplicações pontuais em Asp.Net MVC.
 
-Tenho uma vasta experiência com aplicações fiscais, sou colaborador ativo do projeto **DFe.Net** e responsável pelos projetos **Gerene.DFe.EscPos**  e **CiotEFrete**.
+Tenho uma vasta experiência com aplicações fiscais, sou colaborador ativo do projeto **DFe.Net** e responsável pelos projetos **Gerene.DFe.EscPos**  e **CiotEFrete**, todos referentes à documentos fiscais em C#.
 
-Tenho um conhecimento sólido em banco de dados, especialmente em **PostgreSQL**, com o qual trabalho desde a versão 9.6.
+Tenho um conhecimento sólido em banco de dados, especialmente em **PostgreSQL**, com o qual trabalho diariamente desde a versão 9.6.
 
 Devido à veia empreendedora, tenho uma vasta experiência em comunicação com clientes e usuários finais, o que me proporcionou uma grande capacidade de resolver problemas, inclusive em ambientes de pressão.
 
-Sou falante nativo de Português e sou capaz de me comunicar de forma avançada em **Inglês**.
+Sou falante nativo de *Português* e sou capaz de me comunicar de forma avançada em **Inglês**.
  
 
 <!--
