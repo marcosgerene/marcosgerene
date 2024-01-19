@@ -4,7 +4,7 @@ Meu nome é Marcos, tenho 31 anos, sou programador e empreendedor.
 
 Comecei a me interessar e estudar sobre desenvolvimento de softwares com 16 anos o que se tornou minha profissão aos 18.
 
-Trabalhei por 5 anos com Delphi, e nos últimos 8 anos desenvolvo aplicações em C# (WPF, WinForms, Xamarin.Forms, Blazor e AspNet.MVC).
+Trabalhei por 5 anos com Delphi, e nos últimos 9 anos desenvolvo aplicações em C# (WPF, WinForms, Avalonia, Xamarin.Forms, Blazor e AspNet.MVC).
 
 Lido diariamente com aplicações fiscais e automação comercial e sou entusiasta de projetos de código aberto, então colaboro sempre que possível.
 
