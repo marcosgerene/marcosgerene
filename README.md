@@ -1,6 +1,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcos-gerene-felix-spirito-25a07861/)](https://www.linkedin.com/in/marcos-gerene-felix-spirito-25a07861/)
 
-Meu nome é Marcos, tenho 30 anos, sou programador e empreendedor.
+Meu nome é Marcos, tenho 31 anos, sou programador e empreendedor.
 
 Comecei a me interessar e estudar sobre desenvolvimento de softwares com 16 anos o que se tornou minha profissão aos 18.
 
