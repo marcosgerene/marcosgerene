@@ -14,7 +14,7 @@ Faço parte do grupo OpenAC.Net (https://github.com/OpenAC-Net) e coloboro em al
  <li><a href="https://github.com/marcosgerene/Gerene.DFe.EscPos" target="_blank" >Gerene.DFe.EscPos</a> - Impressão de documentos fiscais em impressoras térmicas (Criador)</li>
  <li><a href="https://github.com/marcosgerene/Gerene.SigepWeb" target="_blank" >Gerene.SigepWeb</a> - Implementação do WebService SIGEP Web dos Correios (Criador)</li>
  <br/>
- <li><a href="https://github.com/ZeusAutomacao/DFe.NET" target="_blank" >DFe.Net</a> - Biblioteca em C# para geração de NFe/MDFe e CTe (Colaborador)</li>
+ <li><a href="https://github.com/Hercules-NET/ZeusFiscal" target="_blank" >Hercules.NET (ZeusFiscal)</a> - Biblioteca em C# para geração de NFe/MDFe e CTe (Co-proprietário)</li>
  <li><a href="https://github.com/osamueloliveira/fiscalbr.net" target="_blank" >FiscalBr.NET</a> - Biblioteca para geração dos arquivos SPED e demais declarações necessárias no cenário contábil/fiscal brasileiro. (Colaborador)</li> 
 </ul>
 
