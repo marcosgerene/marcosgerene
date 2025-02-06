@@ -1,26 +1,43 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcos-gerene-felix-spirito-25a07861/)](https://www.linkedin.com/in/marcos-gerene-felix-spirito-25a07861/)
 
-Meu nome é Marcos, tenho 31 anos, sou programador e empreendedor.
+Sobre
+---
+Sou programador e empreendedor com mais de 15 anos de experiência no desenvolvimento de software, especializado no ecossistema dotNet.
+Desde os 16 anos, venho estudando e aprimorando minhas habilidades, tornando essa paixão minha profissão aos 18.
 
-Comecei a me interessar e estudar sobre desenvolvimento de softwares com 16 anos o que se tornou minha profissão aos 18.
+Atualmente, desenvolvo aplicações utilizando C# em diversas tecnologias, incluindo WPF, WinForms, Avalonia, Xamarin.Forms, Blazor e ASP.NET MVC. Além disso, possuo experiência significativa com PostgreSQL, com o qual trabalho diariamente desde a versão 9.6.
 
-Trabalhei por 5 anos com Delphi, e nos últimos 9 anos desenvolvo aplicações em C# (WPF, WinForms, Avalonia, Xamarin.Forms, Blazor e AspNet.MVC).
+Tenho profundo conhecimento no desenvolvimento de aplicações fiscais e automação comercial, atuando em projetos de alto impacto para o mercado. Sou um entusiasta de software open-source e colaboro ativamente em diversos projetos, contribuindo para a comunidade sempre que possível.
 
-Lido diariamente com aplicações fiscais e automação comercial e sou entusiasta de projetos de código aberto, então colaboro sempre que possível.
 
-Faço parte do grupo OpenAC.Net (https://github.com/OpenAC-Net) e coloboro em alguns outros projetos, como: 
+Atuação Open Source
+---
 
-<ul> 
- <li><a href="https://github.com/marcosgerene/Gerene.DFe.EscPos" target="_blank" >Gerene.DFe.EscPos</a> - Impressão de documentos fiscais em impressoras térmicas (Criador)</li>
- <li><a href="https://github.com/marcosgerene/Gerene.SigepWeb" target="_blank" >Gerene.SigepWeb</a> - Implementação do WebService SIGEP Web dos Correios (Criador)</li>
- <br/>
- <li><a href="https://github.com/Hercules-NET/ZeusFiscal" target="_blank" >Hercules.NET (ZeusFiscal)</a> - Biblioteca em C# para geração de NFe/MDFe e CTe (Co-proprietário)</li>
- <li><a href="https://github.com/osamueloliveira/fiscalbr.net" target="_blank" >FiscalBr.NET</a> - Biblioteca para geração dos arquivos SPED e demais declarações necessárias no cenário contábil/fiscal brasileiro. (Colaborador)</li> 
-</ul>
+Faço parte do grupo OpenAC.Net e colaboro em diversos projetos, incluindo:
 
-Trabalho diariamente com **PostgreSQL** desde 2017 e devido à veia empreendedora, tenho uma vasta experiência em comunicação com clientes e usuários finais, o que me proporcionou uma grande capacidade de resolver problemas, inclusive em ambientes de pressão.
+✅ Gerene.DFe.EscPos – Impressão de documentos fiscais em impressoras térmicas (Criador)
 
-Sou falante nativo de *Português* e sou capaz de me comunicar de forma **avançada em Inglês**.
+✅ Gerene.SigepWeb – Implementação do WebService SIGEP Web dos Correios (Criador)
+
+✅ Hercules.NET (ZeusFiscal) – Biblioteca C# para geração de NFe/MDFe e CTe (Co-proprietário)
+
+✅ FiscalBr.NET – Biblioteca para geração de arquivos SPED e outras declarações fiscais (Colaborador)
+
+
+Habilidades e Diferenciais
+---
+
+✔ Desenvolvimento de aplicações robustas e escaláveis em C#
+
+✔ Especialista em automação comercial e aplicações fiscais
+
+✔ Banco de dados PostgreSQL (todas as versões desde a 9.6)
+
+✔ Experiência em atendimento ao cliente e resolução de problemas
+
+✔ Comunicação fluente em Português e Inglês
+
+Se a sua empresa precisa de expertise em desenvolvimento de software ou automação comercial estou à disposição para trocar ideias e explorar soluções que possam agregar valor.
 
 <!--
 **marcosgerene/marcosgerene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
