@@ -17,8 +17,6 @@ Faço parte do grupo OpenAC.Net e colaboro em diversos projetos, incluindo:
 
 ✅ Gerene.DFe.EscPos – Impressão de documentos fiscais em impressoras térmicas (Criador)
 
-✅ Gerene.SigepWeb – Implementação do WebService SIGEP Web dos Correios (Criador)
-
 ✅ Hercules.NET (ZeusFiscal) – Biblioteca C# para geração de NFe/MDFe e CTe (Co-proprietário)
 
 ✅ FiscalBr.NET – Biblioteca para geração de arquivos SPED e outras declarações fiscais (Colaborador)
